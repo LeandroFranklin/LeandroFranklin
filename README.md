@@ -15,4 +15,4 @@
   <img align="center" alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
 </diV><br/>
 
-Amante de videogames que se arrisca na programação
+Estudante de programação web focado em Java.
